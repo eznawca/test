@@ -1,4 +1,5 @@
 main1 dodano+3
 zmiana2
-LINIA W G£OWNEJ GA£ÊZI!
+LINIA W GÅOWNEJ GAÅÄ˜ZI!
 zmiana3
+Dodano OnLine z GitHub.com
